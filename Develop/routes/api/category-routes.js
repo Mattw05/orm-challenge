@@ -19,7 +19,7 @@ router.post('/', (req, res) => {
   // create a new category
 });
 
-router.put('/:id', (req, res) => {
+router.put('/:id', (req, res) => { 
   // update a category by its `id` value
 });
 
